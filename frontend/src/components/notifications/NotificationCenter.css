@@ -1,0 +1,26 @@
+.notification-center {
+    position: relative;
+}
+
+.MuiPopover-paper {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15) !important;
+}
+
+.notification-item {
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.notification-item:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+}
+
+.notification-item.unread {
+    background-color: rgba(63, 81, 181, 0.08);
+}
+
+.notification-time {
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.54);
+    margin-top: 4px;
+}

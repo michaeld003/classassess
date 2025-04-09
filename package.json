@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@mui/x-date-pickers": "^7.27.3",
+    "@stomp/stompjs": "^7.0.0",
+    "date-fns": "^4.1.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "recharts": "^2.15.1",
+    "sockjs-client": "^1.6.1"
+  }
+}
